@@ -1,6 +1,6 @@
 Added ipynb of Most Files  :
 
-# CIFAR100 & FMNIST Experiments Repository
+#  FMNIST & CIFAR100 Image Similarity Search using Multiple Approaches 
 
 This repository contains my experiments on **image similarity** using **Autoencoders**, **Siamese Networks**, and **Transfer Learning**. The experiments were conducted on two datasets: **CIFAR-100** and **Fashion MNIST (FMNIST)**. The repository is structured to include different approaches, scores, and supporting documentation for better navigation and understanding.
 
