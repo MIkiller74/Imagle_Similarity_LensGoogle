@@ -79,6 +79,7 @@ README.md
 ### 1st is Query Image and next 5 are retrieved.
 ![Query 1](https://github.com/MIkiller74/Imagle_Similarity_LensGoogle/blob/main/Scores/Query1.jpg)
 ![Query 2](https://github.com/MIkiller74/Imagle_Similarity_LensGoogle/blob/main/Scores/Query2.jpg)
+![Query CIFAR100](https://github.com/MIkiller74/Imagle_Similarity_LensGoogle/blob/main/Scores/Query%20CIFAR100.png)
 ![Query 5](https://github.com/MIkiller74/Imagle_Similarity_LensGoogle/blob/main/Scores/AAQuery.png)
 
 ## Approaches and Experiments
