@@ -110,7 +110,7 @@ README.md
   - **Why**: Leverage pre-trained ResNet50 to extract meaningful features from the dataset.
   - **Result**: Achieved decent accuracy and acceptable results for a highly generalized dataset like CIFAR-100.
 ### **PreTrained Models ResNet50 and Mobilenet V2**
--Gave bad scores on pre-trained models
+  - Gave bad scores on pre-trained models
 ---
 
 
