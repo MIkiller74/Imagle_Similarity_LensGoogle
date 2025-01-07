@@ -113,4 +113,16 @@ README.md
   - Gave bad scores on pre-trained models
 ---
 
+## Scores
+
+### Added all the Screenshots of the Scores
+
+## References
+
+- [Autoencoders and Dimensionality Reduction](https://arxiv.org/abs/1512.03385) - _A key paper that describes the use of autoencoders for reducing dimensionality and unsupervised learning._
+- [Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM]([https://github.com/zalandoresearch/fashion-mnist](https://arxiv.org/pdf/2310.07678)) 
+- [Siamese Networks for One-Shot Learning](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) - _A foundational paper introducing Siamese Networks for tasks requiring one-shot learning._
+- [Transfer Learning with ResNet](https://arxiv.org/abs/1512.03385) - _An essential reference on ResNet architecture and its applications in transfer learning._
+- [FMNIST Dataset Overview](https://github.com/zalandoresearch/fashion-mnist) - _Detailed information on the FMNIST dataset, including benchmarks and evaluation metrics._
+
 
