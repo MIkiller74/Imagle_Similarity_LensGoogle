@@ -76,6 +76,10 @@ Scores/
 │
 README.md
 ```
+### 1st is Query Image and next 5 are retrieved.
+![Query 1](https://github.com/MIkiller74/Imagle_Similarity_LensGoogle/blob/main/Scores/Query1.jpg)
+![Query 2](https://github.com/MIkiller74/Imagle_Similarity_LensGoogle/blob/main/Scores/Query2.jpg)
+![Query 5](https://github.com/MIkiller74/Imagle_Similarity_LensGoogle/blob/main/Scores/AAQuery.png)
 
 ## Approaches and Experiments
 ### **FMNIST**
