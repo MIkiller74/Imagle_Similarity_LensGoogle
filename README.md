@@ -68,10 +68,49 @@ CIFAR100/
 │   ├── Siamese_CIFAR100_t2.ipynb
 │   ├── Transfer Learning (ResNet50)/
 │       └── Siamese_with_ResNet50_CIFAR100.ipynb
-├── Transfer Learning(ResNet50) with Siamese Networks  
-    └── CIFAR_PreTrained_Models (ResNet50).ipynb
+├── Transfer Learning(ResNet50) with Siamese Networks
+└── CIFAR_PreTrained_Models (ResNet50).ipynb
 
 Scores/
 │   ├── (Screenshots of All approaches model scores)
 │
 README.md
+```
+
+## Approaches and Experiments
+### **FMNIST**
+### **PreTrained MobileNet V2**
+- MobileNetV2 Transfer pre-trained model was used for Image Similarity.
+- Gave decent score of accuracy 85%.
+
+#### **Autoencoders**
+- **Objective**: Dimensionality reduction and latent space visualization for fashion categories.
+- **Highlights**:
+  - Achieved significant results with the best model stored in **`autoencoder_best_model.keras`**.
+
+#### **Siamese Networks**
+- **Objective**: Pairwise comparison for image similarity in fashion categories.
+- **Experiments**:
+  - Initial models focused on **custom architectures**.
+
+    
+### **CIFAR-100**
+
+#### **Autoencoders**
+- **Objective**: _Reduce dimensionality_ and extract features from CIFAR-100 images.
+- **Challenges**: High class diversity and complexity in feature representation.
+- **Experiments**: 
+  - Tried multiple architectures by varying **filter sizes** and **layers**.
+  - **Results**: Limited performance due to the complexity of the dataset.
+
+#### **Siamese Networks**
+- **Objective**: Learn pairwise image similarity for classification.
+- Did'nt get good score only with siamese but later with Transfer learning with ResNet50 model gave acceptable score.
+ ### **Transfer Learning (ResNet50) with Siamese Approach**
+  - **Why**: Leverage pre-trained ResNet50 to extract meaningful features from the dataset.
+  - **Result**: Achieved decent accuracy and acceptable results for a highly generalized dataset like CIFAR-100.
+### **PreTrained Models ResNet50 and Mobilenet V2**
+-Gave bad scores on pre-trained models
+---
+
+
